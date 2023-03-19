@@ -13,7 +13,11 @@
 \contentsline {section}{\numberline {1.6}Le r\'etro}{18}{section.1.6}
 \contentsline {section}{\numberline {1.7}Le 45\IeC {\textdegree }}{21}{section.1.7}
 \contentsline {section}{\numberline {1.8}Le 90\IeC {\textdegree }}{23}{section.1.8}
-\contentsline {chapter}{\numberline {2}La technique}{25}{chapter.2}
-\contentsline {chapter}{\numberline {3}La queue lev\'ee}{27}{chapter.3}
-\contentsline {chapter}{\numberline {4}Les amortis}{29}{chapter.4}
-\contentsline {chapter}{\numberline {5}L'Am\'ericaine}{31}{chapter.5}
+\contentsline {section}{\numberline {1.9}Bosse sur la bille colleuse}{25}{section.1.9}
+\contentsline {section}{\numberline {1.10}Le 1 Bande}{27}{section.1.10}
+\contentsline {section}{\numberline {1.11}2 bandes retour par la bissectrice}{32}{section.1.11}
+\contentsline {section}{\numberline {1.12}Le coul\'e-bande}{34}{section.1.12}
+\contentsline {chapter}{\numberline {2}La technique}{37}{chapter.2}
+\contentsline {chapter}{\numberline {3}La queue lev\'ee}{39}{chapter.3}
+\contentsline {chapter}{\numberline {4}Les amortis}{41}{chapter.4}
+\contentsline {chapter}{\numberline {5}L'Am\'ericaine}{43}{chapter.5}
