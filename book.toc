@@ -11,7 +11,9 @@
 \contentsline {section}{\numberline {1.4}L'effet}{14}{section.1.4}
 \contentsline {section}{\numberline {1.5}Le coul\'e}{16}{section.1.5}
 \contentsline {section}{\numberline {1.6}Le r\'etro}{18}{section.1.6}
-\contentsline {chapter}{\numberline {2}La technique}{21}{chapter.2}
-\contentsline {chapter}{\numberline {3}La queue lev\'ee}{23}{chapter.3}
-\contentsline {chapter}{\numberline {4}Les amortis}{25}{chapter.4}
-\contentsline {chapter}{\numberline {5}L'Am\'ericaine}{27}{chapter.5}
+\contentsline {section}{\numberline {1.7}Le 45\IeC {\textdegree }}{21}{section.1.7}
+\contentsline {section}{\numberline {1.8}Le 90\IeC {\textdegree }}{23}{section.1.8}
+\contentsline {chapter}{\numberline {2}La technique}{25}{chapter.2}
+\contentsline {chapter}{\numberline {3}La queue lev\'ee}{27}{chapter.3}
+\contentsline {chapter}{\numberline {4}Les amortis}{29}{chapter.4}
+\contentsline {chapter}{\numberline {5}L'Am\'ericaine}{31}{chapter.5}
