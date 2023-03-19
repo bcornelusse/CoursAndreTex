@@ -1,0 +1,97 @@
+% !TeX encoding = ISO-8859-1
+% !TeX spellcheck = fr_FR
+% !TeX root = book.tex
+\documentclass[12pt, a4paper]{book}
+
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{xcolor}
+%\usepackage[cyr]{aeguill}
+\usepackage[french]{babel}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+
+\usepackage{eso-pic}
+
+\newcommand\BackgroundPic{%
+	\put(0,0){%
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering 
+			\includegraphics[width=\paperwidth,height=\paperheight,%
+			keepaspectratio]{title_page_image.jpg}%
+			\vfill
+		}}}
+
+%\renewcommand{\dbltopfraction}{0.9}	% fit big float above 2-col. text
+%\renewcommand{\textfraction}{0.3}	% allow minimal text w. figs
+%   Parameters for FLOAT pages (not text pages):
+%\renewcommand{\floatpagefraction}{0.75}	% require fuller float pages
+% N.B.: floatpagefraction MUST be less than topfraction !!
+%\renewcommand{\dblfloatpagefraction}{0.75}	% require fuller float pages
+
+\begin{document}
+\AddToShipoutPicture*{\BackgroundPic}
+
+\begin{titlepage}
+	\thispagestyle{empty}
+	\centering
+	
+	\textcolor{black}{\Huge{\bf Apprendre le billard au RAHB}}\\
+	\Large \textbf{André Galère}
+	
+	\vspace{14cm}
+	
+	\textcolor{black}{\Large \textit{Le Billard constitue l'Art supérieur de l'anticipation.	Il ne s'agit pas d'un jeu mais d'un sport artistique complet qui nécessite une bonne condition physique,
+	le raisonnement logique du joueur d'échecs et le toucher du pianiste de concert.} Albert Einstein.}
+	\vfill
+
+\end{titlepage}
+
+
+\noindent Images : Pascal Allegro.\\
+Edition : Bertrand Cornélusse.\\
+Avril 2023.
+
+
+\tableofcontents
+
+\chapter{Tenir sa canne}
+
+En préambule, je tiens à signaler que le cours que j'ai conçu, s'adresse aux débutants et ne constitue qu'une méthode. Il y en a bien d'autres. Mon but est d'aider les amateurs de billard à améliorer leurs performances, quelles que soient la hauteur de celles-ci. Si d'aventure, quelque doué voulait atteindre les « hautes sphères » il conviendrait de poursuivre au-delà avec un autre cours plus spécialisé et un autre professeur. Ce cours devrait permettre de passer de « rien » à excellence petit format au maximum et ne permet pas de tâter certaines disciplines comme la bande et le trois bandes. 
+
+\input{A/A01.tex}
+\input{A/A02.tex}
+\input{A/A03.tex}
+\input{A/A04.tex}
+\input{A/A05.tex}
+\input{A/A06.tex}
+%\input{A/A07.tex}
+%\input{A/A08.tex}
+%\input{A/A09.tex}
+%\input{A/A10.tex}
+%\input{A/A11.tex}
+%\input{A/A12.tex}
+%\input{A/A13.tex}
+%\input{A/A14.tex}
+%\input{A/A15.tex}
+%\input{A/A16.tex}
+%\input{A/A17.tex}
+%\input{A/A18.tex}
+%\input{A/A19.tex}
+%\input{A/A20.tex}
+%\input{A/A21.tex}
+%\input{A/A22.tex}
+%\input{A/A23.tex}
+%\input{A/A24.tex}
+
+
+\chapter{La technique}
+\chapter{La queue levée}
+\chapter{Les amortis}
+\chapter{L'Américaine}
+
+\end{document}
