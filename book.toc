@@ -17,7 +17,13 @@
 \contentsline {section}{\numberline {1.10}Le 1 Bande}{27}{section.1.10}
 \contentsline {section}{\numberline {1.11}2 bandes retour par la bissectrice}{32}{section.1.11}
 \contentsline {section}{\numberline {1.12}Le coul\'e-bande}{34}{section.1.12}
-\contentsline {chapter}{\numberline {2}La technique}{37}{chapter.2}
-\contentsline {chapter}{\numberline {3}La queue lev\'ee}{39}{chapter.3}
-\contentsline {chapter}{\numberline {4}Les amortis}{41}{chapter.4}
-\contentsline {chapter}{\numberline {5}L'Am\'ericaine}{43}{chapter.5}
+\contentsline {section}{\numberline {1.13}Le coul\'e-bosse}{36}{section.1.13}
+\contentsline {section}{\numberline {1.14}Le r\'etro-bande}{38}{section.1.14}
+\contentsline {section}{\numberline {1.15}Le petit coul\'e}{40}{section.1.15}
+\contentsline {section}{\numberline {1.16}Le petit r\'etro}{42}{section.1.16}
+\contentsline {section}{\numberline {1.17}Le trois bandes naturel}{44}{section.1.17}
+\contentsline {section}{\numberline {1.18}R\'etro Bille-Bande naturel}{46}{section.1.18}
+\contentsline {chapter}{\numberline {2}La technique}{49}{chapter.2}
+\contentsline {chapter}{\numberline {3}La queue lev\'ee}{51}{chapter.3}
+\contentsline {chapter}{\numberline {4}Les amortis}{53}{chapter.4}
+\contentsline {chapter}{\numberline {5}L'Am\'ericaine}{55}{chapter.5}
