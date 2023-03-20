@@ -30,6 +30,14 @@
 \contentsline {section}{\numberline {1.23}Petit R\'etro - Long D\'eplacement}{54}{section.1.23}
 \contentsline {section}{\numberline {1.24}Le Point Mouche}{56}{section.1.24}
 \contentsline {chapter}{\numberline {2}La technique}{59}{chapter.2}
-\contentsline {chapter}{\numberline {3}La queue lev\'ee}{61}{chapter.3}
-\contentsline {chapter}{\numberline {4}Les amortis}{63}{chapter.4}
-\contentsline {chapter}{\numberline {5}L'Am\'ericaine}{65}{chapter.5}
+\contentsline {section}{\numberline {2.1}Le Deux Bandes}{60}{section.2.1}
+\contentsline {section}{\numberline {2.2}Anti-Rappel - Deux Bandes}{62}{section.2.2}
+\contentsline {section}{\numberline {2.3}Serrage dans le coin par 3 Bandes}{64}{section.2.3}
+\contentsline {section}{\numberline {2.4}3 billes dans le coin par le tour}{66}{section.2.4}
+\contentsline {section}{\numberline {2.5}3 bandes dans le carr\'e}{68}{section.2.5}
+\contentsline {section}{\numberline {2.6}Rappel dans le coin par une Bande}{70}{section.2.6}
+\contentsline {section}{\numberline {2.7} Rappels extr\^emes par une bande}{72}{section.2.7}
+\contentsline {section}{\numberline {2.8}Rappel \`a la petite bande}{74}{section.2.8}
+\contentsline {chapter}{\numberline {3}La queue lev\'ee}{77}{chapter.3}
+\contentsline {chapter}{\numberline {4}Les amortis}{79}{chapter.4}
+\contentsline {chapter}{\numberline {5}L'Am\'ericaine}{81}{chapter.5}
