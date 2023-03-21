@@ -4,3 +4,5 @@
 *.out
 *.gz
 book.toc
+*.fls
+*.fdb_latexmk

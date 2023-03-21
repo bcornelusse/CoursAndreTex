@@ -38,6 +38,7 @@
 \contentsline {section}{\numberline {2.6}Rappel dans le coin par une Bande}{70}{section.2.6}
 \contentsline {section}{\numberline {2.7} Rappels extr\^emes par une bande}{72}{section.2.7}
 \contentsline {section}{\numberline {2.8}Rappel \`a la petite bande}{74}{section.2.8}
-\contentsline {chapter}{\numberline {3}La queue lev\'ee}{77}{chapter.3}
-\contentsline {chapter}{\numberline {4}Les amortis}{79}{chapter.4}
-\contentsline {chapter}{\numberline {5}L'Am\'ericaine}{81}{chapter.5}
+\contentsline {section}{\numberline {2.9}Rappel direct ou par la bande ?}{76}{section.2.9}
+\contentsline {chapter}{\numberline {3}La queue lev\'ee}{79}{chapter.3}
+\contentsline {chapter}{\numberline {4}Les amortis}{81}{chapter.4}
+\contentsline {chapter}{\numberline {5}L'Am\'ericaine}{83}{chapter.5}
