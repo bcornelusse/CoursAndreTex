@@ -1,44 +1,59 @@
 \select@language {french}
-\contentsline {chapter}{\numberline {1}Tenir sa canne}{5}{chapter.1}
-\contentsline {section}{\numberline {1.1}Position du joueur}{6}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Les pieds}{6}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2} Les jambes}{6}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}Le tronc}{6}{subsection.1.1.3}
-\contentsline {section}{\numberline {1.2}Position des Mains}{8}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}La main arri\`ere}{8}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}La main avant}{8}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}L'effet : position de la canne}{10}{section.1.3}
-\contentsline {section}{\numberline {1.4}L'effet}{13}{section.1.4}
-\contentsline {section}{\numberline {1.5}Le coul\'e}{14}{section.1.5}
-\contentsline {section}{\numberline {1.6}Le r\'etro}{16}{section.1.6}
-\contentsline {section}{\numberline {1.7}Le 45\IeC {\textdegree }}{18}{section.1.7}
-\contentsline {section}{\numberline {1.8}Le 90\IeC {\textdegree }}{20}{section.1.8}
-\contentsline {section}{\numberline {1.9}Bosse sur la bille colleuse}{22}{section.1.9}
-\contentsline {section}{\numberline {1.10}Le 1 Bande}{24}{section.1.10}
-\contentsline {section}{\numberline {1.11}2 bandes retour par la bissectrice}{29}{section.1.11}
-\contentsline {section}{\numberline {1.12}Le coul\'e-bande}{31}{section.1.12}
-\contentsline {section}{\numberline {1.13}Le coul\'e-bosse}{33}{section.1.13}
-\contentsline {section}{\numberline {1.14}Le r\'etro-bande}{35}{section.1.14}
-\contentsline {section}{\numberline {1.15}Le petit coul\'e}{37}{section.1.15}
-\contentsline {section}{\numberline {1.16}Le petit r\'etro}{39}{section.1.16}
-\contentsline {section}{\numberline {1.17}Le trois bandes naturel}{41}{section.1.17}
-\contentsline {section}{\numberline {1.18}R\'etro Bille-Bande naturel}{43}{section.1.18}
-\contentsline {section}{\numberline {1.19}Le Carrousel}{45}{section.1.19}
-\contentsline {section}{\numberline {1.20}Rappel par deux bandes}{47}{section.1.20}
-\contentsline {section}{\numberline {1.21}Le Point de Finesse}{49}{section.1.21}
-\contentsline {section}{\numberline {1.22}Le long coul\'e}{51}{section.1.22}
-\contentsline {section}{\numberline {1.23}Petit R\'etro - Long D\'eplacement}{54}{section.1.23}
-\contentsline {section}{\numberline {1.24}Le Point Mouche}{56}{section.1.24}
-\contentsline {chapter}{\numberline {2}La technique}{59}{chapter.2}
-\contentsline {section}{\numberline {2.1}Le Deux Bandes}{60}{section.2.1}
-\contentsline {section}{\numberline {2.2}Anti-Rappel - Deux Bandes}{62}{section.2.2}
-\contentsline {section}{\numberline {2.3}Serrage dans le coin par 3 Bandes}{64}{section.2.3}
-\contentsline {section}{\numberline {2.4}3 billes dans le coin par le tour}{66}{section.2.4}
-\contentsline {section}{\numberline {2.5}3 bandes dans le carr\'e}{68}{section.2.5}
-\contentsline {section}{\numberline {2.6}Rappel dans le coin par une Bande}{70}{section.2.6}
-\contentsline {section}{\numberline {2.7} Rappels extr\^emes par une bande}{72}{section.2.7}
-\contentsline {section}{\numberline {2.8}Rappel \`a la petite bande}{74}{section.2.8}
-\contentsline {section}{\numberline {2.9}Rappel direct ou par la bande ?}{76}{section.2.9}
-\contentsline {chapter}{\numberline {3}La queue lev\'ee}{79}{chapter.3}
-\contentsline {chapter}{\numberline {4}Les amortis}{81}{chapter.4}
-\contentsline {chapter}{\numberline {5}L'Am\'ericaine}{83}{chapter.5}
+\contentsline {chapter}{\numberline {A}Tenir sa canne}{5}{chapter.1}
+\contentsline {section}{\numberline {A.1}Position du joueur}{6}{section.1.1}
+\contentsline {subsection}{\numberline {A.1.1}Les pieds}{6}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {A.1.2} Les jambes}{6}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {A.1.3}Le tronc}{6}{subsection.1.1.3}
+\contentsline {section}{\numberline {A.2}Position des Mains}{8}{section.1.2}
+\contentsline {subsection}{\numberline {A.2.1}La main arri\`ere}{8}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {A.2.2}La main avant}{8}{subsection.1.2.2}
+\contentsline {section}{\numberline {A.3}L'effet : position de la canne}{10}{section.1.3}
+\contentsline {section}{\numberline {A.4}L'effet}{13}{section.1.4}
+\contentsline {section}{\numberline {A.5}Le coul\'e}{14}{section.1.5}
+\contentsline {section}{\numberline {A.6}Le r\'etro}{16}{section.1.6}
+\contentsline {section}{\numberline {A.7}Le 45\IeC {\textdegree }}{18}{section.1.7}
+\contentsline {section}{\numberline {A.8}Le 90\IeC {\textdegree }}{20}{section.1.8}
+\contentsline {section}{\numberline {A.9}Bosse sur la bille colleuse}{22}{section.1.9}
+\contentsline {section}{\numberline {A.10}Le 1 Bande}{24}{section.1.10}
+\contentsline {section}{\numberline {A.11}2 bandes retour par la bissectrice}{29}{section.1.11}
+\contentsline {section}{\numberline {A.12}Le coul\'e-bande}{31}{section.1.12}
+\contentsline {section}{\numberline {A.13}Le coul\'e-bosse}{33}{section.1.13}
+\contentsline {section}{\numberline {A.14}Le r\'etro-bande}{35}{section.1.14}
+\contentsline {section}{\numberline {A.15}Le petit coul\'e}{37}{section.1.15}
+\contentsline {section}{\numberline {A.16}Le petit r\'etro}{39}{section.1.16}
+\contentsline {section}{\numberline {A.17}Le trois bandes naturel}{41}{section.1.17}
+\contentsline {section}{\numberline {A.18}R\'etro Bille-Bande naturel}{43}{section.1.18}
+\contentsline {section}{\numberline {A.19}Le Carrousel}{45}{section.1.19}
+\contentsline {section}{\numberline {A.20}Rappel par deux bandes}{47}{section.1.20}
+\contentsline {section}{\numberline {A.21}Le Point de Finesse}{49}{section.1.21}
+\contentsline {section}{\numberline {A.22}Le long coul\'e}{51}{section.1.22}
+\contentsline {section}{\numberline {A.23}Petit R\'etro - Long D\'eplacement}{54}{section.1.23}
+\contentsline {section}{\numberline {A.24}Le Point Mouche}{56}{section.1.24}
+\contentsline {chapter}{\numberline {B}La technique}{59}{chapter.2}
+\contentsline {section}{\numberline {B.1}Le Deux Bandes}{60}{section.2.1}
+\contentsline {section}{\numberline {B.2}Anti-Rappel - Deux Bandes}{62}{section.2.2}
+\contentsline {section}{\numberline {B.3}Serrage dans le coin par 3 Bandes}{64}{section.2.3}
+\contentsline {section}{\numberline {B.4}3 billes dans le coin par le tour}{66}{section.2.4}
+\contentsline {section}{\numberline {B.5}3 bandes dans le carr\'e}{68}{section.2.5}
+\contentsline {section}{\numberline {B.6}Rappel dans le coin par une Bande}{70}{section.2.6}
+\contentsline {section}{\numberline {B.7} Rappels extr\^emes par une bande}{72}{section.2.7}
+\contentsline {section}{\numberline {B.8}Rappel \`a la petite bande}{74}{section.2.8}
+\contentsline {section}{\numberline {B.9}Rappel direct ou par la bande ?}{76}{section.2.9}
+\contentsline {section}{\numberline {B.10}Petit r\'etro avec long d\'eplacement}{78}{section.2.10}
+\contentsline {section}{\numberline {B.11}Le r\'etro qui double}{80}{section.2.11}
+\contentsline {section}{\numberline {B.12}Le coul\'e qui double}{82}{section.2.12}
+\contentsline {section}{\numberline {B.13}La bricole simple}{84}{section.2.13}
+\contentsline {section}{\numberline {B.14}Bricoles avec effets}{86}{section.2.14}
+\contentsline {section}{\numberline {B.15}Bricoles deux et trois bandes}{88}{section.2.15}
+\contentsline {section}{\numberline {B.16}R\'etro deux bandes}{90}{section.2.16}
+\contentsline {section}{\numberline {B.17}R\'etro bille-bande effet rentrant}{92}{section.2.17}
+\contentsline {section}{\numberline {B.18}Rappel par le 8}{94}{section.2.18}
+\contentsline {section}{\numberline {B.19}Rappel par r\'etro amorti}{96}{section.2.19}
+\contentsline {section}{\numberline {B.20}Coul\'e amorti rappel par 3 bandes}{98}{section.2.20}
+\contentsline {section}{\numberline {B.21}Long r\'etro, petit d\'eplacement}{100}{section.2.21}
+\contentsline {section}{\numberline {B.22}Rappel arri\`ere par deux bandes}{102}{section.2.22}
+\contentsline {section}{\numberline {B.23}Coul\'es en Cascade}{104}{section.2.23}
+\contentsline {section}{\numberline {B.24}R\'etro dans le tiers}{106}{section.2.24}
+\contentsline {chapter}{\numberline {C}La queue lev\'ee}{109}{chapter.3}
+\contentsline {chapter}{\numberline {D}Les amortis}{111}{chapter.4}
+\contentsline {chapter}{\numberline {E}L'Am\'ericaine}{113}{chapter.5}
