@@ -81,3 +81,5 @@
 \contentsline {section}{\numberline {C.24}Mass\'e d\'etach\'e}{124}{section.3.24}
 \contentsline {chapter}{\numberline {D}Les amortis}{127}{chapter.4}
 \contentsline {chapter}{\numberline {E}L'Am\'ericaine}{129}{chapter.5}
+\contentsline {chapter}{\numberline {A}Le mot de la fin}{131}{appendix.A}
+\contentsline {chapter}{\numberline {B}Petit lexique}{133}{appendix.B}
