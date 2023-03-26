@@ -80,6 +80,30 @@
 \contentsline {section}{\numberline {C.23}Masser \`a angle droit}{124}{section.3.23}
 \contentsline {section}{\numberline {C.24}Mass\'e d\'etach\'e}{124}{section.3.24}
 \contentsline {chapter}{\numberline {D}Les amortis}{127}{chapter.4}
-\contentsline {chapter}{\numberline {E}L'Am\'ericaine}{129}{chapter.5}
-\contentsline {chapter}{\numberline {A}Le mot de la fin}{131}{appendix.A}
-\contentsline {chapter}{\numberline {B}Petit lexique}{133}{appendix.B}
+\contentsline {section}{\numberline {D.1}Amorti}{127}{section.4.1}
+\contentsline {section}{\numberline {D.2}Amorti dans le tiers}{127}{section.4.2}
+\contentsline {section}{\numberline {D.3}Amorti sur la largeur}{128}{section.4.3}
+\contentsline {section}{\numberline {D.4}Amorti sur la longueur}{129}{section.4.4}
+\contentsline {section}{\numberline {D.5}Rappel par 3 ou 2 bandes}{129}{section.4.5}
+\contentsline {section}{\numberline {D.6}Les chandelles}{130}{section.4.6}
+\contentsline {section}{\numberline {D.7}Les chandeliers}{131}{section.4.7}
+\contentsline {section}{\numberline {D.8}Les tir\'es sur la largeur}{131}{section.4.8}
+\contentsline {section}{\numberline {D.9}Les tir\'es sur la longueur}{132}{section.4.9}
+\contentsline {section}{\numberline {D.10}Promenade, serrage au coin}{132}{section.4.10}
+\contentsline {section}{\numberline {D.11}Rappel de la 2 par 4 bandes}{133}{section.4.11}
+\contentsline {section}{\numberline {D.12}Amorti coul\'e le long de la bande}{134}{section.4.12}
+\contentsline {section}{\numberline {D.13}Invitation \`a danser}{134}{section.4.13}
+\contentsline {section}{\numberline {D.14}Pousser la 2 \`a danse}{135}{section.4.14}
+\contentsline {section}{\numberline {D.15}Amorti pour suivre la bissectrice}{136}{section.4.15}
+\contentsline {section}{\numberline {D.16}Le grand accord\'eon}{136}{section.4.16}
+\contentsline {section}{\numberline {D.17}Le petit accord\'eon}{137}{section.4.17}
+\contentsline {section}{\numberline {D.18}Le faux accord\'eon}{138}{section.4.18}
+\contentsline {section}{\numberline {D.19}Amorti ramenant par le huit}{138}{section.4.19}
+\contentsline {section}{\numberline {D.20}3B raccourcies et 2B par l'arri\`ere}{139}{section.4.20}
+\contentsline {section}{\numberline {D.21}Rappel par 3B avant ou arri\`ere}{139}{section.4.21}
+\contentsline {section}{\numberline {D.22}Rappel par invitation en 3B}{140}{section.4.22}
+\contentsline {section}{\numberline {D.23}Rappel sur position inconfortable}{141}{section.4.23}
+\contentsline {section}{\numberline {D.24}Un point \IeC {\guillemotleft } magique \IeC {\guillemotright }}{141}{section.4.24}
+\contentsline {chapter}{\numberline {E}L'Am\'ericaine}{143}{chapter.5}
+\contentsline {chapter}{\numberline {A}Le mot de la fin}{145}{appendix.A}
+\contentsline {chapter}{\numberline {B}Petit lexique}{147}{appendix.B}
